@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://Macks1:Macks1@cluster0.wiohw.mongodb.net/Expenses?retryWrites=true&w=majority"
+}
